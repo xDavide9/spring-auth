@@ -1,0 +1,26 @@
+Collection of links and resources for the projects' different tasks.
+
+create application diagram
+    https://www.diagrams.net/
+
+learn spring testing
+    https://www.baeldung.com/spring-boot-testing
+    https://www.baeldung.com/spring-boot-testing
+
+code the project
+    refer to previously written code
+        https://github.com/xDavide9/TurboBuy
+    add new features
+        remember me
+            https://www.baeldung.com/spring-security-remember-me
+            https://teachable.com/
+        email verification
+            https://www.baeldung.com/spring-email
+        password and username recovery
+            https://www.baeldung.com/spring-security-registration-i-forgot-my-password
+
+wrap the application as packages that can be used actively used for other projects
+    publish on maven repository
+        https://www.baeldung.com/maven-publish-to-remote-repository
+        https://www.baeldung.com/maven-
+
